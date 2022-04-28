@@ -1,4 +1,4 @@
-![Hero Img](/hero.png)
+![Hero Img](https://github.com/HarshithPendyala/HarshithPendyala/blob/main/wepik.jpg)
 # Hi there!👋
 * 🌱 I'm currently learning ReactJS in depth.
 * 👬 I'm looking to collaborate on HTML, CSS or Javascript and ReactJS projects.
